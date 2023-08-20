@@ -1,5 +1,5 @@
 ---
-title: Viewing a file
+title: Pull a file
 intro: You can view raw file content or trace changes to lines in a file and discover how parts of the file evolved over time.
 redirect_from:
   - /articles/using-git-blame-to-trace-changes-in-a-file
